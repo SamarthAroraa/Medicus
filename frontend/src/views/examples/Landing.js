@@ -238,7 +238,6 @@ const Landing = (props) => {
                           <Button
                             className="mt-4"
                             color="primary"
-                            href="#pablo"
                             onClick={(e) => {
                               e.preventDefault();
                               setModal(true);
